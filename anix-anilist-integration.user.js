@@ -7,7 +7,7 @@
 // @grant       none
 // @version     1.2
 // @author      irasnalida
-// @description Uses AniList API to show the ID and add a link to Anime's Anilist page on Anix watch page.
+// @description Uses AniList API to show the ID and add a link to Anime's Anilist page on watch page.
 // ==/UserScript==
 
 
