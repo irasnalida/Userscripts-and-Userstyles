@@ -15,4 +15,5 @@ window.onload = function () {
     const bgdiv = document.createElement('div');
     bgdiv.id = 'bgdiv';
     document.body.insertBefore(bgdiv, document.body.firstChild);
+    //test sync for greasyfork
 }
