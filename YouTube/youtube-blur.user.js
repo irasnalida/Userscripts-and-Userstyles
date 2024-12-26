@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.youtube.com/*
 // @grant       none
-// @version     1.2
+// @version     1.3
 // @author      irasnalida
 // @description Youtube theme for blur effect like windows 11
 // ==/UserScript==
